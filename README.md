@@ -429,11 +429,7 @@ spring.h2.console.path=/h2-console
 
 ### Production Readiness
 - Replace H2 with PostgreSQL/MySQL
-- Implement database migrations (Flyway/Liquibase)
+- Implement database migrations
 - Add API versioning
 - Implement rate limiting
-- Add request/response logging
 
-
-## License
-This project is part of a practical assessment for a digital wallet system implementation.
